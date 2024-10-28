@@ -1,4 +1,12 @@
 ## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="![Texas_Longhorns_logo svg](https://github.com/user-attachments/assets/bc71adca-2cad-4aba-96f8-a3ff15509367)
+">
+ <source media="(prefers-color-scheme: light)" srcset="![Texas_Longhorns_logo svg](https://github.com/user-attachments/assets/ffcd2b04-6cfa-4b57-b341-8218216d69f3)
+">
+ <img alt="Hook'em" src="![Texas_Longhorns_logo svg](https://github.com/user-attachments/assets/63ac000c-fa48-4e1b-bf94-c06d6290da8f)
+">
+</picture>
 
 <!--
 **1999-ZHANG/1999-ZHANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
