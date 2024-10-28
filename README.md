@@ -1,11 +1,13 @@
-## Hi there 👋
+## About me 👋
+<!-- TO DO: add more details about me later -->
+Hi, I'm Shuyi. I'm a current graduate student in UT Austin working on a Ph.D. degree of Civil Engineering. I am intrested in a lot of things besides playing with soil in the lab.
+---
+> Hook'em.
+
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="![Texas_Longhorns_logo svg](https://github.com/user-attachments/assets/bc71adca-2cad-4aba-96f8-a3ff15509367)
-">
- <source media="(prefers-color-scheme: light)" srcset="![Texas_Longhorns_logo svg](https://github.com/user-attachments/assets/ffcd2b04-6cfa-4b57-b341-8218216d69f3)
-">
- <img alt="Hook'em" src="![Texas_Longhorns_logo svg](https://github.com/user-attachments/assets/63ac000c-fa48-4e1b-bf94-c06d6290da8f)
-">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/bc71adca-2cad-4aba-96f8-a3ff15509367">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/ffcd2b04-6cfa-4b57-b341-8218216d69f3">
+ <img alt="Hook'em" src="https://github.com/user-attachments/assets/63ac000c-fa48-4e1b-bf94-c06d6290da8f">
 </picture>
 
 <!--
